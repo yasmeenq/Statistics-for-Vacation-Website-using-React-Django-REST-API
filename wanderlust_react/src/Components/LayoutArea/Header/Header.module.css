@@ -1,0 +1,18 @@
+
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Title on left, UserMenu on right */
+    font-size: 3vh;
+    padding: 0 20px; /* Adds padding on both left and right sides */
+    height: 60px;
+    background-color: #2F4F4F; /* Subtle background color */
+    color: #ffffff;
+}
+
+.Header p {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0;
+}

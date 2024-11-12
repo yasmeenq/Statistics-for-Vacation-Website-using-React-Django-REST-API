@@ -1,0 +1,23 @@
+.UserMenu {
+    margin-left: auto; /* Aligns UserMenu to the far right */
+    font-size: 1.2rem;
+    display: flex;
+    gap: 15px; /* Spacing between elements for readability */
+    align-items: center;
+    color: #ffffff;
+}
+
+.UserMenu a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.UserMenu a:hover {
+    color: #ffd966;
+
+}
+
+.UserMenu a:active {
+    color: #ffd966;
+}
