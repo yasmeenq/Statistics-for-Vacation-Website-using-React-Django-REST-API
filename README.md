@@ -1,1 +1,0 @@
-# Statistics-for-Vacation-Website-using-React-Django-REST-API
